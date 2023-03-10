@@ -1,2 +1,2 @@
-# HTML-NA-DIO
-Repositorio para guardar meu progresso de html na plataforma DIO
+# PLATAFORMA-DIO
+Repositorio para guardar meus progressos de projetos na plataforma DIO.
