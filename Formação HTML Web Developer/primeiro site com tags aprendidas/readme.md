@@ -8,4 +8,4 @@
 
 ##  site abaixo:
 
-> [LINK](https://sitetagsdio.netlify.app/)
+> [LINK](https://sitetagsdio.netlify.app/){:target="_blank"}
